@@ -1,5 +1,8 @@
 # TIL
-I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
+I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxe
+**May 2, 2020**
+- Completed [Tribute Page](https://mequa-tribute-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Tribute-Page))
+- Learned how to deploy via Heroku
 
 **May 1, 2020**
 - Began Tribute Page project from FCC Responsive Web Design course
