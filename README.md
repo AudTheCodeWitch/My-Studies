@@ -1,6 +1,10 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 4, 2020**
+- I'm sure I knew this before, but \*= and /= work just like += and -=! Mind blown.
+- Began FCC's JavaScript Algorithms and Data Structures Certification (completed first 88 lessons)
+
 **May 2, 2020**
 - Completed [Survey Page](https://aquarium-survey-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Survey-Form))
 - Completed [Tribute Page](https://mequa-tribute-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Tribute-Page))
