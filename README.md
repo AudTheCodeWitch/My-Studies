@@ -1,6 +1,16 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 5, 2020**
+- Finished Basic JavaScript section of FCC's JavaScript Algorithms and Data Structures Certification
+- You can nest a ternary in a ternary!
+
+```javascript
+5 < 4 ? "5 is greater than 4"
+  : 4 > 2 ? "5 is greater than 4, and 4 is greater than 2."
+    : "4 is less than 2"
+```
+
 **May 4, 2020**
 - I'm sure I knew this before, but \*= and /= work just like += and -=! Mind blown.
 - Began FCC's JavaScript Algorithms and Data Structures Certification (completed first 88 lessons)
