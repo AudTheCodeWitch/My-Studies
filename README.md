@@ -4,6 +4,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 **May 4, 2020**
 - I'm sure I knew this before, but \*= and /= work just like += and -=! Mind blown.
 - Began FCC's JavaScript Algorithms and Data Structures Certification (completed first 88 lessons)
+- Began Product Landing Page project from FCC Responsive Web Design course
 
 **May 2, 2020**
 - Completed [Survey Page](https://aquarium-survey-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Survey-Form))
