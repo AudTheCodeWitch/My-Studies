@@ -4,6 +4,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 **May 6, 2020**
 - Completed first half of ES6 section in FCC's JavaScript Algorithms and Data Structures Certification
 - Practiced JS object destructuring
+- Worked on styling for Product Landing Page project
 
 **May 5, 2020**
 - Finished Basic JavaScript section of FCC's JavaScript Algorithms and Data Structures Certification
