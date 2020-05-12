@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 12, 2020**
+- Continued REGEX section in FCC's JavaScript Algorithms and Data Structures Certification
+
 **May 11, 2020**
 - Worked on styling for Product Landing Page project
 
