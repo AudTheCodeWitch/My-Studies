@@ -1,6 +1,16 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 11, 2020**
+- Worked on styling for Product Landing Page project
+
+**May 8, 2020**
+- Finished first half of REGEX section in FCC's JavaScript Algorithms and Data Structures Certification
+
+**May 7, 2020**
+- Finished ES6 section in FCC's JavaScript Algorithms and Data Structures Certification
+- Published blog post about [formatting data](https://www.codewitch.dev/covidiary_pt_6_-_formatting_data)
+
 **May 6, 2020**
 - Completed first half of ES6 section in FCC's JavaScript Algorithms and Data Structures Certification
 - Practiced JS object destructuring
