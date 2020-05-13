@@ -3,6 +3,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 
 **May 12, 2020**
 - Continued REGEX section in FCC's JavaScript Algorithms and Data Structures Certification
+- Added media query and completed styling for Product Landing Page project
 
 **May 11, 2020**
 - Worked on styling for Product Landing Page project
