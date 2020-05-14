@@ -1,6 +1,12 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 14, 2020**
+- Completed debugging section in FCC's JavaScript Algorithms and Data Structures Certification
+
+**May 13, 2020**
+- Completed REGEX section in FCC's JavaScript Algorithms and Data Structures Certification
+
 **May 12, 2020**
 - Continued REGEX section in FCC's JavaScript Algorithms and Data Structures Certification
 - Added media query and completed styling for Product Landing Page project
