@@ -1,6 +1,19 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 18, 2020**
+- Completed Basic Data Structures section in FCC's JavaScript Algorithms and Data Structures Certification
+- Began Basic Algorithm Scripting section in FCC's JavaScript Algorithms and Data Structures Certification
+
+**May 17, 2020**
+- Began FCC Technical Documentation Page project
+
+**May 16, 2020**
+- Completed [Product Landing Page](https://tarot-product-landing-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Product-Landing-Page))
+
+**May 15, 2020**
+- Published blog post about [back-end CRUD actions](https://www.codewitch.dev/covidiary_pt_7_-_a_little_more_action)
+
 **May 14, 2020**
 - Completed debugging section in FCC's JavaScript Algorithms and Data Structures Certification
 
