@@ -5,6 +5,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 - Completed Basic Data Structures section in FCC's JavaScript Algorithms and Data Structures Certification
 - Began Basic Algorithm Scripting section in FCC's JavaScript Algorithms and Data Structures Certification
 - Finished content tests for FCC Technical Documentation Project
+- Began mobile-first CSS styling for FCC Technical Documentation Project
 
 **May 17, 2020**
 - Began FCC Technical Documentation Page project
