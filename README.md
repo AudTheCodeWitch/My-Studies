@@ -1,5 +1,10 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
+**May 26, 2020**
+- Completed Object Oriented Programming section in FCC's JavaScript Algorithms and Data Structures Certification
+
+**May 21-25, 2020**
+- Holiday weekend! I watched movies, crocheted, and played with the dogs.
 
 **May 21, 2020**
 - Completed [FCC Technical Documentation Page](https://ruby-docs-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-tech-docs-page))
