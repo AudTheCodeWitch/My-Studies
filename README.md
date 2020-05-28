@@ -3,7 +3,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 
 **May 28, 2020**
 - Continued Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
-- Completed [FCC Personal Portfolio Page](https://portfolio-page-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Portfolio-Page))
+- Completed [FCC Personal Portfolio Page](https://portfolio-page-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Portfolio-Page))
 - Earned [FCC Responsive Web Design](https://www.freecodecamp.org/certification/audthecodewitch/responsive-web-design) certificate
 
 **May 27, 2020**
@@ -16,7 +16,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 - Holiday weekend! I watched movies, crocheted, and played with the dogs.
 
 **May 21, 2020**
-- Completed [FCC Technical Documentation Page](https://ruby-docs-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-tech-docs-page))
+- Completed [FCC Technical Documentation Page](https://ruby-docs-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-tech-docs-page))
 - Started FCC Portfolio Page project
 
 **May 20, 2020**
@@ -36,7 +36,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 - Began FCC Technical Documentation Page project
 
 **May 16, 2020**
-- Completed [Product Landing Page](https://tarot-product-landing-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Product-Landing-Page))
+- Completed [Product Landing Page](https://tarot-product-landing-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Product-Landing-Page))
 
 **May 15, 2020**
 - Published blog post about [back-end CRUD actions](https://www.codewitch.dev/covidiary_pt_7_-_a_little_more_action)
@@ -82,7 +82,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 - Began Product Landing Page project from FCC Responsive Web Design course
 
 **May 2, 2020**
-- Completed [Survey Page](https://aquarium-survey-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Survey-Form))
+- Completed [Survey Page](https://aquarium-survey-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Survey-Form))
 - Completed [Tribute Page](https://mequa-tribute-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Tribute-Page))
 - Learned how to deploy via Heroku
 
