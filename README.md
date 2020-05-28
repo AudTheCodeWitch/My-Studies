@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 28, 2020**
+- Continued Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
+
 **May 27, 2020**
 - Started Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
 
