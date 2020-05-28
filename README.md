@@ -3,6 +3,8 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 
 **May 28, 2020**
 - Continued Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
+- Completed [FCC Personal Portfolio Page](https://portfolio-page-fcc.herokuapp.com/) project([repo here](https://github.com/AudTheCodeWitch/FCC-Portfolio-Page))
+- Earned [FCC Responsive Web Design](https://www.freecodecamp.org/certification/audthecodewitch/responsive-web-design) certificate
 
 **May 27, 2020**
 - Started Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
