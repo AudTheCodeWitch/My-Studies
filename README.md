@@ -1,6 +1,12 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**May 30, 2020**
+- Began Bootstrap section of FCC's Frontend Libraries Certification
+
+**May 29, 2020**
+- Published blog post about [FCC's Responsive Web Design course](https://www.codewitch.dev/course_review_freecodecamps_responsive_web_design)
+
 **May 28, 2020**
 - Continued Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
 - Completed [FCC Personal Portfolio Page](https://portfolio-page-fcc.herokuapp.com/) project ([repo here](https://github.com/AudTheCodeWitch/FCC-Portfolio-Page))
