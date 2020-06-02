@@ -1,6 +1,14 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 2, 2020**
+- [Regex101](https://regex101.com/) is a very helpful resource
+- Finished Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
+
+**June 1, 2020**
+- Made slight edits to blog posts
+- Reviewed COVIDiary project and began to plan next steps
+
 **May 30, 2020**
 - Began Bootstrap section of FCC's Frontend Libraries Certification
 
