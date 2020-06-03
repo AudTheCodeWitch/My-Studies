@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 3, 2020**
+- Began Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
+
 **June 2, 2020**
 - [Regex101](https://regex101.com/) is a very helpful resource
 - Finished Functional Programming section in FCC's JavaScript Algorithms and Data Structures Certification
