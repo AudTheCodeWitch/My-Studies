@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 4, 2020**
+- Completed Sass section of FCC's Frontend Libraries Certification
+
 **June 3, 2020**
 - Completed Bootstrap section of FCC's Frontend Libraries Certification
 - Completed jQuery section of FCC's Frontend Libraries Certification
