@@ -1,9 +1,17 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 8, 2020**
+- Completed React section of FCC's Frontend Libraries Certification
+- Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
+
+**June 5, 2020**
+- Published blog post about [COVIDiart pt.9 - UX Design](https://www.codewitch.dev/covidiary_pt_9_-_ux_design)
+
 **June 4, 2020**
 - Began React section of FCC's Frontend Libraries Certification
 - Completed Sass section of FCC's Frontend Libraries Certification
+- Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
 
 **June 3, 2020**
 - Completed Bootstrap section of FCC's Frontend Libraries Certification
