@@ -2,6 +2,7 @@
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
 **June 11, 2020**
+- Published blog post about [COVIDiary pt. 10 - Our First Component](https://www.codewitch.dev/covidiary_pt_10_-_our_first_component)
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
 
 **June 10, 2020**
