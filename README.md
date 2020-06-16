@@ -1,6 +1,12 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 16, 2020**
+- Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
+
+**June 15, 2020**
+- Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
+
 **June 12, 2020**
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
 
