@@ -1,6 +1,18 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 21, 2020**
+- Minor tweaks to OurCAL
+
+**June 19, 2020**
+- Published blog post about [inclusive vocabulary in tech](https://www.codewitch.dev/words_matter)
+
+**June 18, 2020**
+- Deployed [OurCAL on Heroku](https://our-cal.herokuapp.com/)
+
+**June 17, 2020**
+- Prepped OurCAL for initial deployment
+
 **June 16, 2020**
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
 
