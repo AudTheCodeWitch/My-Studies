@@ -3,6 +3,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 
 **June 26, 2020**
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
+- Published blog post about [COVIDiary Basic Header](https://www.codewitch.dev/covidiary_pt_11_-_basic_header)
 
 **June 25, 2020**
 - Researched how to create documentation using rdoc and YARD
