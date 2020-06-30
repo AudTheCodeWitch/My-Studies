@@ -2,7 +2,7 @@
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
 **June 30, 2020**
-- Started code for holiday-themed blog post
+- Created [Codepen](https://codepen.io/audthecodewitch/pen/ExPbPQZ?editors=0010) for holiday-themed blog post
 - Fixed & closed Dependabot security issues across all repos
 
 **June 29, 2020**
