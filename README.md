@@ -1,6 +1,13 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**June 30, 2020**
+- Started code for holiday-themed blog post
+- Fixed & closed Dependabot security issues across all repos
+
+**June 29, 2020**
+- Brainstormed holiday-themed blog post
+
 **June 26, 2020**
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
 - Published blog post about [COVIDiary Basic Header](https://www.codewitch.dev/covidiary_pt_11_-_basic_header)
