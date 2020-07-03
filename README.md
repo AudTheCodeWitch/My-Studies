@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**July 3, 2020**
+- Published tutorial for a [JS American Flag](https://www.codewitch.dev/independence_day_fun_with_javascript) on blog
+
 **June 30, 2020**
 - Created [Codepen](https://codepen.io/audthecodewitch/pen/ExPbPQZ?editors=0010) for holiday-themed blog post
 - Fixed & closed Dependabot security issues across all repos
