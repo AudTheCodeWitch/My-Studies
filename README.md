@@ -3,6 +3,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 
 **July 9, 2020**]
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
+- Published blog post about [migrating blog to Forestry.io](https://www.codewitch.dev/2020/07/09/upgrade-your-flatiron-blog-part-2/)
 
 **July 8, 2020**
 - Read Auth0 docs to prep for next COVIDiary blog post.
