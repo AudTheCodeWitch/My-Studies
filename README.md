@@ -1,6 +1,12 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**July 8, 2020**
+- Read Auth0 docs to prep for next COVIDiary blog post.
+
+**July 4-7, 2020**
+- Holiday weekend! I ate hot dogs, watched fireworks, and spent time with my family.
+
 **July 3, 2020**
 - Published tutorial for a [JS American Flag](https://www.codewitch.dev/independence_day_fun_with_javascript) on blog
 
