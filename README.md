@@ -1,7 +1,11 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
-**July 9, 2020**]
+**July 10, 2020**
+- Completed Palindrome Checker project in FCC's Javascript Algorithms and Data Structures Certification
+- Finished Intermediate Algorithm Scripting in FCC's Javascript Algorithms and Data Structures Certification
+
+**July 9, 2020**
 - Continued Intermediate Algorithm Scripting in FCC's JavaScript Algorithms and Data Structures Certification
 - Published blog post about [migrating blog to Forestry.io](https://www.codewitch.dev/2020/07/09/upgrade-your-flatiron-blog-part-2/)
 
