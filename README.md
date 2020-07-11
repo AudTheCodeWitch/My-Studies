@@ -2,6 +2,7 @@
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
 **July 10, 2020**
+- Completed Roman Numeral Converter project in FCC's Javascript Algorithms and Data Structures Certification
 - Completed Palindrome Checker project in FCC's Javascript Algorithms and Data Structures Certification
 - Finished Intermediate Algorithm Scripting in FCC's Javascript Algorithms and Data Structures Certification
 
