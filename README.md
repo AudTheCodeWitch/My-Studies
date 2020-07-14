@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**July 14, 2020**
+- Configured custom email + aliases for codewitch.dev domain
+
 **July 10, 2020**
 - Completed Caesar's Cipher project in FCC's Javascript Algorithms and Data Structures Certification
 - Completed Roman Numeral Converter project in FCC's Javascript Algorithms and Data Structures Certification
