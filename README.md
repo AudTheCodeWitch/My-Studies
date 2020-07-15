@@ -1,6 +1,9 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**July 15, 2020**
+- Completed Telephone Number Validator project in FCC's Javascript Algorithms and Data Structures Certification
+
 **July 14, 2020**
 - Configured custom email + aliases for codewitch.dev domain
 
