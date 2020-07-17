@@ -6,6 +6,9 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 - Earned [FCC JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/audthecodewitch/javascript-algorithms-and-data-structures) certificate
 - Completed Cash Register Project in FCC's JavaScript Algorithms and Data Structures Certification
 
+**July 16, 2020**
+- Fixed color change bug (issue #15) in OurCal
+
 **July 15, 2020**
 - Completed Telephone Number Validator project in FCC's Javascript Algorithms and Data Structures Certification
 
