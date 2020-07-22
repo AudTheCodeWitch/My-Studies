@@ -1,6 +1,14 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**July 21, 2020**
+- Fixed broken OurCAL deployment
+- Signed up for [Pluralsight's Tour de Tech](https://app.pluralsight.com/library/free)
+
+**July 20, 2020**
+- Read about Salesforce's Lightning components
+- Began blog post draft
+
 **July 17, 2020**
 - Published blog post [comparing JS and React classes](https://www.codewitch.dev/2020/07/17/a-tale-of-two-classes/)
 - Earned [FCC JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/audthecodewitch/javascript-algorithms-and-data-structures) certificate
