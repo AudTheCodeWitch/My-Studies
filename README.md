@@ -2,6 +2,7 @@
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
 **July 31, 2020**
+- Earned 6 new badges on Salesforce's Trailhead
 - Took Role IQ test on Pluralsight for React Developer
 
 **July 27, 2020**
