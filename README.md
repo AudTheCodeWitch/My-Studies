@@ -1,6 +1,18 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**July 31, 2020**
+- Took Role IQ test on Pluralsight for React Developer
+
+**July 27, 2020**
+- Watched Pluralsight course on ethical hacking
+
+**July 24, 2020**
+- Published [Course Review of FCC's JS algorithms and data structures](https://www.codewitch.dev/2020/07/24/course-review-freecodecamp-s-javascript-algorithms-and-data-structures/) blog post
+
+**July 23, 2020**
+- Took Skill IQ tests on Pluralsight for JavaScript and React
+
 **July 21, 2020**
 - Fixed broken OurCAL deployment
 - Signed up for [Pluralsight's Tour de Tech](https://app.pluralsight.com/library/free)
