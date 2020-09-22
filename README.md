@@ -1,6 +1,19 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**September 22, 2020**
+- Resumed Salesforce Trailhead studies
+
+**September 21, 2020**
+- Catching up on emails, LI, etc
+- Merged automatic security updates
+
+**August 7-September 20, 2020**
+- Major abdominal surgery + recovery.
+
+**August 6, 2020**
+- Earned 3 new badges on Salesforce's Trailhead
+
 **July 31, 2020**
 - Earned 6 new badges on Salesforce's Trailhead
 - Took Role IQ test on Pluralsight for React Developer
