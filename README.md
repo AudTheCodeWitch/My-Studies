@@ -4,6 +4,7 @@ I am doing a lot of studying/work that doesn't get committed to GitHub, so I wan
 **September 23, 2020**
 - Earned 4 new badges on Salesforce's Trailhead
 - Completed "Get Started with Lightning Experience" trail
+- Completed 2 CW katas, Ruby
 
 **September 22, 2020**
 - Resumed Salesforce Trailhead studies
