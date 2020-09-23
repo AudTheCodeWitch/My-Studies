@@ -1,6 +1,10 @@
 # TIL
 I am doing a lot of studying/work that doesn't get committed to GitHub, so I want to document it. Let's get those green boxes!
 
+**September 23, 2020**
+- Earned 4 new badges on Salesforce's Trailhead
+- Completed "Get Started with Lightning Experience" trail
+
 **September 22, 2020**
 - Resumed Salesforce Trailhead studies
 
